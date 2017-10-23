@@ -16,6 +16,10 @@
     "profiles": [{
         "network": "LinkedIn",
         "url": "https://www.linkedin.com/in/nathanmoon/"
+    },
+    {
+        "network": "Github",
+        "url": "https://github.com/nathanmoon"
     }]
   },
   "work": [
@@ -23,7 +27,7 @@
       "company": "Yours.co",
       "position": "Software Developer",
       "website": "https://yours.co",
-      "startDate": "June 2017",
+      "startDate": "2017-06-01",
       "summary": "Working with Node.js, Vue.js, Postgres, Firebase in a microservice-ish architecture.",
       "highlights": []
     },
@@ -31,46 +35,46 @@
       "company": "HireVue",
       "position": "Software Developer",
       "website": "https://www.hirevue.com",
-      "startDate": "June 2012",
+      "startDate": "2012-06-01",
       "summary": "Designed RESTful APIs in Python on top of PostgreSQL. Worked on our React/Redux frontend. Added Elasticsearch to the stack to handle search and facets. Learned a lot about Amazon Web Services. Submitted 1 patent. Led multiple teams. Awarded \"Founders Club\" for 2013.",
       "highlights": [],
-      "endDate": "June 2017"
+      "endDate": "2017-06-01"
     },
     {
       "company": "Fold3",
       "position": "Director of Development",
       "website": "https://www.fold3.com",
-      "startDate": "February 2011",
+      "startDate": "2011-02-01",
       "summary": "Primarily worked as a developer, while overseeing a small development team. Gained experience in Solr/Lucene.",
       "highlights": [],
-      "endDate": "June 2012"
+      "endDate": "2012-06-01"
     },
     {
       "company": "Footnote.com (renamed to Fold3)",
       "position": "Software Developer",
       "website": "https://www.fold3.com",
-      "startDate": "September 2006",
+      "startDate": "2006-09-01",
       "summary": "Developed web services in Java for the footnote.com website, delivering images of original historical documents in a community/web 2.0 environment using Axis, Tomcat, JPA/Hibernate, Spring Framework, MySQL (InnoDB), Memcached, JUnit.  Was heavily involved in performance tuning of MySQL/InnoDB and Hibernate. Experienced in MySQL 5.0/5.1, triggers, stored procedures, replication.  Developed front-end components in Flex/Flash/ActionScript 3.",
       "highlights": [],
-      "endDate": "June 2011"
+      "endDate": "2011-06-01"
     },
     {
       "company": "Waterford Research Institute",
       "position": "Software Developer",
       "website": "https://www.waterford.org",
-      "startDate": "February 2005",
+      "startDate": "2005-02-01",
       "summary": "Designed, developed, and tested educational software for teaching basic reading and math in grades K-2. Developed server-side, back-end and framework layers using Java, Hibernate, JMS, PostgreSQL, Microsoft SQL Server.  Principal contributor in a large-scale migration from SQL Server 2000 stored procedures to database vendor agnostic data and business layers using Hibernate 3, to support PostgreSQL. Successfully directed the creation of extensive unit tests to ensure a smooth transition and timely completion of the migration. Led a major movement toward using JUnit for automated unit tests.  Architected a data collection/data warehousing system for aggregating product usage information for research and analysis.  Experienced in directing remote and local teams. Proven track-record of accurately estimating time to completion of major projects, and meeting deadlines.  Maintained and extended a large internally used web application.",
       "highlights": [],
-      "endDate": "September 2006"
+      "endDate": "2006-09-01"
     },
     {
       "company": "Park City Group, Inc.",
       "position": "Software Developer",
       "website": "http://www.parkcitygroup.com",
-      "startDate": "May 2003",
+      "startDate": "2003-05-01",
       "summary": "Designed, developed, and tested multi-tier Client/Server business management applications in Java/Oracle using J2SE, JDBC, JNDI, Swing. Gained experience with Agile programming, Design Patterns, SQL, JUnit, Toad.  Led an initiative to create an extensive unit test framework where tests were run on an automated schedule and failures were e-mailed to responsible developers. Successfully used automated unit and functional tests to ensure the stability of critical fixes in an environment where bug-fix turn-around for clients was often a matter of hours.  Wrote multiple Swing applications with support for i18n (internationalization).  Revised and re-wrote many of the core tools used by clients for data import and aggregation from stores to corporate offices.",
       "highlights": [],
-      "endDate": "February 2005"
+      "endDate": "2005-02-01"
     }
   ],
   "education": [
@@ -78,19 +82,19 @@
       "institution": "University of North Carolina at Chapel Hill",
       "area": "Computer Science",
       "studyType": "MS",
-      "startDate": "2000",
+      "startDate": "2000-09-01",
       "gpa": "",
       "courses": [],
-      "endDate": "2002"
+      "endDate": "2002-06-01"
     },
     {
       "institution": "Brigham Young University",
       "area": "Computer Science",
       "studyType": "BS",
-      "startDate": "1994",
+      "startDate": "1994-09-01",
       "gpa": "",
       "courses": [],
-      "endDate": "2000"
+      "endDate": "2000-06-01"
     }
   ],
   "publications": [
